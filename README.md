@@ -1,3 +1,4 @@
+
 # 🗺️ Desafio WAR Estruturado – Conquista de Territórios
 
 Bem-vindo ao **Desafio WAR Estruturado!** Inspirado no famoso jogo de estratégia, este desafio convida você a programar diferentes versões do jogo WAR, evoluindo seus conhecimentos em **C** à medida que avança pelos níveis **Novato**, **Aventureiro** e **Mestre**.
@@ -146,5 +147,4 @@ Cada nível foca em um conjunto de habilidades:
 🚀 **Boa sorte! Avance nos níveis e torne-se um mestre da programação estratégica!**
 
 > Equipe de Ensino – MateCheck
-
 
