@@ -4,7 +4,6 @@ Bem-vindo ao **Desafio WAR Estruturado!** Inspirado no famoso jogo de estratégi
 
 A empresa **MateCheck** contratou você para criar uma versão estruturada do WAR. Cada nível propõe novas funcionalidades, conceitos e desafios de programação. **Você escolhe por onde começar!**
 
----
 
 ## 🧩 Nível Novato: Cadastro Inicial dos Territórios
 
@@ -130,7 +129,7 @@ Exibição do resultado da batalha, dados sorteados e mudanças no mapa.
 - Verificação da missão
 - Mensagem de vitória
 
----
+
 
 ## 🏁 Conclusão
 
